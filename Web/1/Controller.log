@@ -1,0 +1,21 @@
+2021-02-17 15:33:30 INFO  ControllerLogger:107 - Get all clients request
+2021-02-17 15:33:39 INFO  ControllerLogger:48 - Get all client tours request
+2021-02-17 15:39:20 INFO  ControllerLogger:41 - Get all tours request
+2021-02-17 15:41:45 INFO  ControllerLogger:163 - Setting discount 50 for client having more than 3 orders.
+2021-02-17 16:11:35 INFO  ControllerLogger:110 - Get all clients request
+2021-02-17 16:11:46 INFO  ControllerLogger:110 - Get all clients request
+2021-02-17 16:12:08 INFO  ControllerLogger:110 - Get all clients request
+2021-02-17 16:12:10 INFO  ControllerLogger:41 - Get all tours request
+2021-02-17 16:12:13 INFO  ControllerLogger:51 - Get all client tours request
+2021-06-01 11:08:57 INFO  ControllerLogger:110 - Get all clients request
+2021-06-01 11:09:00 INFO  ControllerLogger:41 - Get all tours request
+2021-06-01 11:09:04 INFO  ControllerLogger:51 - Get all client tours request
+2021-06-02 13:09:17 INFO  ControllerLogger:110 - Get all clients request
+2021-06-02 13:09:26 INFO  ControllerLogger:51 - Get all client tours request
+2021-06-02 13:09:39 INFO  ControllerLogger:94 - Get all hot tours request
+2021-06-02 13:09:50 INFO  ControllerLogger:163 - Setting discount 1 for client having more than 2 orders.
+2021-06-02 13:09:54 INFO  ControllerLogger:41 - Get all tours request
+2021-06-02 13:10:26 INFO  ControllerLogger:41 - Get all tours request
+2021-06-02 13:10:42 INFO  ControllerLogger:51 - Get all client tours request
+2021-06-02 13:11:04 INFO  ControllerLogger:140 - Booking tour 1 for client 1
+2021-06-02 13:11:16 INFO  ControllerLogger:163 - Setting discount 20 for client having more than 1 orders.
