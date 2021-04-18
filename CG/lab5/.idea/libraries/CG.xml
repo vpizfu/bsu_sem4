@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CG">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CG_jar/CG.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
