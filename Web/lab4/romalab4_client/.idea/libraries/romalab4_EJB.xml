@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="romalab4_EJB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../romalab4_server/out/artifacts/romalab4_EJB/romalab4_EJB.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
