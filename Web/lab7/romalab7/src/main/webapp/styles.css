@@ -1,0 +1,57 @@
+.page-form {
+	margin: 15px auto;
+	width: 50% !important;
+}
+
+header {
+	height: 50px;
+	display: flex;
+	align-items: center;
+	background-color: aliceblue;
+}
+header a {
+	color: deepskyblue;
+}
+h3 {
+	text-align: center;
+}
+
+.page-container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	margin: 15px;
+}
+
+.page-container .page-table {
+	width: 900px;
+}
+
+.page-container .page-table thead {
+	color: #007bff;
+}
+
+h1, a, p {
+	margin: 15px;
+}
+
+.table {
+	margin: 15px auto;
+	width: 50% !important; 
+}
+
+.textField {
+   	margin: auto;
+	width: 25% !important; 
+}
+
+.list-group {
+	margin: 15px;	
+}
+.list-group-item {
+	margin: 15px;
+	margin-left: 0px !important;
+}
+.navbar-brand {
+	font-size: 1.17em;
+}

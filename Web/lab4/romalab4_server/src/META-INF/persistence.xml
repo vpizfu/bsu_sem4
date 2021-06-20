@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence xmlns="http://java.sun.com/xml/ns/persistence" version="2.0">
+
+    <persistence-unit name="PersistenceUnit" transaction-type="JTA">
+<!--        <provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>-->
+        <jta-data-source>jdbc/__coffee</jta-data-source>
+        <class>web.sem2.lab1.models.entities.Ingredient</class>
+        <class>web.sem2.lab1.models.entities.BillElement</class>
+        <class>web.sem2.lab1.models.entities.Bill</class>
+        <class>web.sem2.lab1.models.entities.User</class>
+        <class>web.sem2.lab1.models.entities.RecipeElement</class>
+        <class>web.sem2.lab1.models.entities.Drink</class>
+<!--        <properties>-->
+<!--            <property name="hibernate.connection.url" value="jdbc:mysql://localhost/coffee?useUnicode=true"/>-->
+<!--            <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver"/>-->
+<!--            <property name="hibernate.connection.username" value="roman"/>-->
+<!--            <property name="hibernate.connection.password" value="080fb4e088cf45e471d46a52dc317b9b"/>-->
+<!--            <property name="hibernate.connection.autocommit" value="true"/>-->
+<!--            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect"/>-->
+<!--            <property name="hibernate.archive.autodetection" value="class"/>-->
+<!--            <property name="hibernate.show_sql" value="true"/>-->
+<!--            <property name="hibernate.format_sql" value="true"/>-->
+<!--        </properties>-->
+    </persistence-unit>
+</persistence>

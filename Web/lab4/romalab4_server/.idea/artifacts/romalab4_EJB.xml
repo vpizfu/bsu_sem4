@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="romalab4:EJB">
+    <output-path>$PROJECT_DIR$/out/artifacts/romalab4_EJB</output-path>
+    <root id="archive" name="romalab4_EJB.jar">
+      <element id="artifact" artifact-name="romalab4:EJB exploded" />
+    </root>
+  </artifact>
+</component>
