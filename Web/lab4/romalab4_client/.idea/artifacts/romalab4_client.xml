@@ -1,9 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="romalab4:client">
-    <output-path>$PROJECT_DIR$/out/artifacts/romalab4_client</output-path>
-    <root id="archive" name="romalab4.jar">
-      <element id="module-output" name="romalab4_client" />
-      <element id="extracted-dir" path="$PROJECT_DIR$/../romalab4_server/out/artifacts/romalab4_EJB/romalab4_EJB.jar" path-in-jar="/" />
-    </root>
-  </artifact>
-</component>
